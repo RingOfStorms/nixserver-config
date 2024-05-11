@@ -1,5 +1,0 @@
-host: h0001
-appdata:
-  - /var/lib/bitwarden_rs
-ports:
-  - 8222:8222
