@@ -1,0 +1,5 @@
+host: localhost
+appdata:
+  - /var/lib/ombi
+ports:
+  - 3579:3579
