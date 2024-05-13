@@ -1,5 +1,0 @@
-host: h002
-appdata:
-  - /var/lib/ombi
-ports:
-  - 3579:3579
