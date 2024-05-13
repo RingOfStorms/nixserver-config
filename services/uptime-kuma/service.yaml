@@ -1,0 +1,5 @@
+host: localhost
+appdata:
+  - /var/lib/uptime-kuma
+ports:
+  - 3001:3001
