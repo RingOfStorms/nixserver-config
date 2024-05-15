@@ -1,0 +1,5 @@
+host: h002
+appdata:
+  - /var/lib/prowlarr
+ports:
+  - 9696:9696
