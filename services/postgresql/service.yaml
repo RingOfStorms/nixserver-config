@@ -1,5 +1,0 @@
-host: h002
-appdata:
-  - /var/lib/postgresql
-ports:
-  - 5432:5432
