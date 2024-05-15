@@ -1,0 +1,8 @@
+host: h002
+appdata:
+  - /var/lib/radarr
+mounts:
+  - /path/to/downloads:/downloads
+  - /path/to/movies:/movies
+ports:
+  - 7878:7878
