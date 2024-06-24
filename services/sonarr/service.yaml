@@ -1,8 +1,0 @@
-host: h002
-appdata:
-  - /var/lib/sonarr
-mounts:
-  - /path/to/downloads:/downloads
-  - /path/to/shows:/shows
-ports:
-  - 8989:8989
