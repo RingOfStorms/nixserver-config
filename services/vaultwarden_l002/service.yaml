@@ -1,5 +1,0 @@
-host: localhost
-appdata:
-  - /var/lib/bitwarden_rs
-ports:
-  - 8222:8222
