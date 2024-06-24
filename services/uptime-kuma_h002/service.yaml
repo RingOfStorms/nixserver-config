@@ -1,5 +1,0 @@
-host: h002
-appdata:
-  - /var/lib/uptime-kuma
-ports:
-  - 3001:3001
